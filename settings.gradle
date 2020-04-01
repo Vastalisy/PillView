@@ -1,0 +1,3 @@
+rootProject.name='PillViewLibrary'
+include ':app'
+include ':pillview'
